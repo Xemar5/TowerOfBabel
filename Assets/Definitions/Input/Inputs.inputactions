@@ -1,0 +1,1156 @@
+{
+    "name": "Inputs",
+    "maps": [
+        {
+            "name": "XBoxOne",
+            "id": "07bb012e-75dd-4659-94a0-7ad4df399d39",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "e7a01c84-8415-4914-9492-b3018f2415e0",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "b126a86a-bb53-4176-9f14-c6aa330f500e",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "9878cbf9-24fd-4175-a2e3-c37d6a6248e3",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "d0528fd7-978f-428a-b378-e75b0ec7b44e",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "7caf686b-b2b6-4498-b390-0b3b6a7b83b3",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "282d6ba5-0b47-4fb5-90d0-a5136f74faf0",
+                    "path": "<XInputController>/dpad/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "5690fa45-483e-4fb6-ae91-1a55a905b9d5",
+                    "path": "<XInputController>/dpad/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "4f0a6f40-8104-43fd-a51f-324baea02502",
+                    "path": "<XInputController>/dpad/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "a7d1e763-bccc-4047-8e88-155adc496080",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "8eb03b1a-3db6-44a0-9d48-c01c0806e299",
+                    "path": "<XInputController>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "7f6012f0-c97e-4e76-b8ab-93b370990df7",
+                    "path": "<XInputController>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "LRed",
+            "id": "619bef91-fc6b-483b-b203-839eda267182",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "75b84cd5-40bc-4092-848b-02d39a53a241",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "3147d605-e5da-41a2-9978-83afcf929baf",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "ec957dfd-9e22-48a5-a9ec-fc222a4f98f9",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "9c236c46-4129-46ba-b630-0b9aa587d6cf",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "698b1e63-ac19-4cef-b05e-c380297925f9",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "58e40c70-8f39-4c19-991e-7d8111745112",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "ff944a9a-8a6f-4a65-b97e-38219746efd6",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "f54fec8a-9a0f-40d1-ab3c-dffcba1c6879",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "54d180dd-7287-4ae8-acb3-619dbff98e90",
+                    "path": "<Keyboard>/slash",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "87de70d5-af90-437b-a382-8a8c5d6fcb3d",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "RBrown",
+            "id": "2add42a7-c24d-409b-8ca6-26466a2012f9",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "881b040b-e777-4b3d-9448-752cd89ee616",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "14106b46-6b28-434d-995b-5dd5ba2acbd7",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "9e9410c8-d735-4542-b516-24bd7cdff484",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "6131d878-5edd-4e5a-a0e5-b120e64c2d06",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "0e4ca551-e45b-4a6c-9475-6de65056fae3",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "89bb055f-274d-48f7-bb03-0b7b6649ff9a",
+                    "path": "<HID::Namtai Buzz Joystick>/button18",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Brown",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "d2a945f0-e6f2-4563-baa3-d84b19d8f503",
+                    "path": "<HID::Namtai Buzz Joystick>/button17",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "a1704ca7-77ba-40fe-bded-362de1508bd0",
+                    "path": "<HID::Namtai Buzz Joystick>/button16",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "4640e0ba-b08f-4040-8706-02d47717c31d",
+                    "path": "<HID::Namtai Buzz Joystick>/button20",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "8e031e8d-e2e0-4e6b-bd50-76a7e351b28f",
+                    "path": "<HID::Namtai Buzz Joystick>/button19",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Temp Keyboard;Red",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "LGreen",
+            "id": "3f09b0f3-3ef1-4359-ab7c-7f16a83c0a8a",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "e96d53ad-175b-4435-8ee7-99dd603899e9",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "e8a54705-8211-43bd-bb09-d128e3a8aa7f",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "651b0265-8e62-4f98-bac1-8923059f5f23",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "d462bb53-930f-4bb8-b96c-85f5c811f484",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "facb0670-6485-467b-9a30-cfd8f3820af4",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e6a44728-6bef-448b-8f67-b17c4ae04df3",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "b2398115-afa9-4e9d-80f9-1dbf0ab52341",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "8ac7e168-f491-4933-abf3-475a4c50169d",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "028b45d9-cac9-411c-85cd-35e3bccef72e",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "abc150b8-4588-4933-9569-1fa1c8161f98",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "ROrange",
+            "id": "9da9b91c-feec-4886-bc05-3a57be8cecb0",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "00051745-5d42-4c2d-8371-c0a9ee026297",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "02805fdf-5701-404b-ae51-9993fc0264a6",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "329dd709-e74f-4658-9ae7-9cb7e42d585e",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "ff015c22-3ffd-45bd-88b3-2b64987cb2c0",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "2ed8d3ce-9688-42ac-9bd6-c55f3f61a3f6",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5ed38507-d0b6-4008-8ea9-15484d434b19",
+                    "path": "<HID::Namtai Buzz Joystick>/button13",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "d2513a1a-39fd-4521-9e60-073d24e93785",
+                    "path": "<HID::Namtai Buzz Joystick>/button12",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "9427ab77-6827-42ad-a5d0-eafca15b3a75",
+                    "path": "<HID::Namtai Buzz Joystick>/button11",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "3e6e31d2-c555-4c7e-bc67-bb6296f32d32",
+                    "path": "<HID::Namtai Buzz Joystick>/button15",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "08dc0426-37eb-4318-9e2b-3ae7dfa8aae9",
+                    "path": "<HID::Namtai Buzz Joystick>/button14",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "LBlue",
+            "id": "79b62b58-5aa8-4723-b661-d47b101b2ead",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "e6447396-3661-4652-8131-183b806d9c34",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "f7598052-4e46-42e7-86e8-032a5598b9db",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "97674e8a-6c01-4998-832f-32c49b592be2",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "2f6137a9-0d47-4365-9bd0-5afaa68f5168",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "6bb1e271-65cf-4e59-8a46-09bec4f63f6c",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "424e0265-714e-41ce-8d03-3a603fddce03",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "a170e00a-14e3-4893-963b-15d16c735a6e",
+                    "path": "<Keyboard>/l",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "2440bf51-5789-47ca-8f13-52a868a71b2c",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "d36187e2-776f-40bd-8e50-c9cea70e1ec4",
+                    "path": "<Keyboard>/u",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "d780bf30-693b-441d-b5d6-c6840bfa26aa",
+                    "path": "<Keyboard>/o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "RTeal",
+            "id": "f8a0271b-90fc-4677-96ed-7c94e01b6594",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "b35e87ad-6b2b-4f8c-b247-f67428df4e2d",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "af9d59eb-1562-4c84-85a6-6f21c76905cd",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "84011a58-4f59-4ead-8bcd-f690b752ca08",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "74da0d33-db7e-484c-ab20-0f9a23f05826",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "576bc4ad-9ef3-4ae6-a7d6-d88f9880e10a",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6c73d64e-2168-48f5-b352-f14aa9d83086",
+                    "path": "<HID::Namtai Buzz Joystick>/button8",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "b9d1dcdf-c07a-42ed-bd84-7699d07ac4cb",
+                    "path": "<HID::Namtai Buzz Joystick>/button7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "6e2c8275-d5c2-40a9-8b82-19d232ce8787",
+                    "path": "<HID::Namtai Buzz Joystick>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "0655a839-b794-4141-a4c1-bbf511fd23c7",
+                    "path": "<HID::Namtai Buzz Joystick>/button10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "b2cd3106-be4a-4fc4-be0f-c119013de9ff",
+                    "path": "<HID::Namtai Buzz Joystick>/button9",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "LYellow",
+            "id": "e8afa133-c595-4e10-8d34-78a2dd43f1a6",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "375cfc26-2e01-4959-b60e-b82315d44d0a",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "1931d6e4-680a-4cca-85d8-014a15f5e12f",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "6354fc29-d2a0-4a32-b1bd-5de7c950960e",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "09143341-17d7-4338-a7d4-3e9b519511e8",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "39c3a9f5-2ff0-4614-a4b6-b538739bb6a0",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f7355ccd-8448-4108-ba61-efedd9d2e3ae",
+                    "path": "<Keyboard>/numpad1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "3093c38a-efec-42b3-b007-63c19af3d5ce",
+                    "path": "<Keyboard>/numpad3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "037c25f3-eee2-44d1-b13d-955a23a0ea82",
+                    "path": "<Keyboard>/numpad2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "00240807-6e13-4300-954a-e2909878738a",
+                    "path": "<Keyboard>/numpad4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "9a072c7a-69ad-4ed3-b62e-e565b33ae175",
+                    "path": "<Keyboard>/numpad6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "RPurple",
+            "id": "dc99d37b-9ec4-4237-b120-23b4bb821241",
+            "actions": [
+                {
+                    "name": "Left",
+                    "id": "42614c4b-6bb9-4764-a4e4-c5be08150082",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Right",
+                    "id": "3db419e3-db42-46d5-b780-c03dbadcf770",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Down",
+                    "id": "79c0fe9c-6b26-45b5-977f-44b524e3fb73",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateCounterClockwise",
+                    "id": "45461b5f-ac1c-4c7b-b3f1-ec19cdf238e0",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "RotateClockwise",
+                    "id": "64c9e8a2-f99d-4618-9788-0537d5f39e13",
+                    "expectedControlLayout": "Button",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "216d1af5-dfe3-4c64-b813-ca35a5450dff",
+                    "path": "<HID::Namtai Buzz Joystick>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "d023dfb7-7d7c-4727-a9fc-6f28f56b84cb",
+                    "path": "<HID::Namtai Buzz Joystick>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "69b4f18b-feb3-4950-97e4-abc2adf4787e",
+                    "path": "<HID::Namtai Buzz Joystick>/button1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "2944cec1-b4e1-4382-acf3-7556a55184d5",
+                    "path": "<HID::Namtai Buzz Joystick>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateCounterClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "3ed74585-eda6-4222-ad3b-f8f8112a8be3",
+                    "path": "<HID::Namtai Buzz Joystick>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Green",
+                    "action": "RotateClockwise",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        },
+        {
+            "name": "Gameplay",
+            "id": "ced8176f-f3eb-41cc-bc28-3f66f2b815d2",
+            "actions": [
+                {
+                    "name": "Restart",
+                    "id": "2c8240af-53c6-4923-8ceb-26ec04403861",
+                    "expectedControlLayout": "",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5aae0db4-0ae2-460d-863b-0bbcc050dc5b",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Restart",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
